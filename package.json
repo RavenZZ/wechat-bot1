@@ -1,0 +1,9 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "weixinbot": "^0.6.1"
+  }
+}
